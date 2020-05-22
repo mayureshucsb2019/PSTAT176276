@@ -4,8 +4,12 @@ This project contains implementation of project for finance course PSTAT 176/ 27
 Team Members:
 
 Emily Lu
+
 Liang Feng
+
 Mayuresh Anand
+
 Niall Lawler
+
 Taiga Schwarz
 
