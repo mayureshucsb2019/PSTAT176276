@@ -1,0 +1,25 @@
+1. Go to the folder location where you want the project to be located
+
+2. $ git clone https://github.com/mayureshucsb2019/PSTAT176276.git
+
+HELPER LINK: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+3. Now you must see a directory named PSTAT176276
+
+4. go into the folder using 
+$ cd PSTAT176276
+look at the flies
+
+$ ls (for linux)
+$ dir (for windows)
+
+5. Change the files as you work on it
+
+6. To commit changes
+
+$ git add filename1 filename2 ...
+$ git commit -m "This is the message you want to write for instruction"
+$ git push
+
+7. After you have done this... everytime someone makes changes you want to update your directory before working using
+$ git pull
