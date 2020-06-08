@@ -11,7 +11,7 @@ from datetime import date
 yf.pdr_override()
 
 #USE    : To get historical data for a particular stock
-#INPUT  : code of the company "goog"
+#INPUT  : code of the company (ticker: GOOG)
 #OUTPUT : array of close price of data
 def GetData(companyName, years=1):
     # Getting today's date
