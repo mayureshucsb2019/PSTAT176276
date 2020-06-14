@@ -25,7 +25,7 @@ Emily \textsc{Lu}\\
 Liang \textsc{Feng}\\
 Mayuresh \textsc{Anand} \\
 Niall \textsc{Lawler}\\
-Taiga \textsc{Schwartz}
+Taiga \textsc{Schwarz}
 \end{flushleft}
 \end{minipage}
 ~
